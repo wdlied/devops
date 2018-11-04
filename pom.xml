@@ -5,7 +5,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>devops</name>
@@ -38,8 +38,8 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git@github.com:wdlied/devops.git</connection>
-		<developerConnection>scm:git@github.com:wdlied/devops.git</developerConnection>
+		<connection>scm:git:git@github.com:wdlied/devops.git</connection>
+		<developerConnection>scm:git:git@github.com:wdlied/devops.git</developerConnection>
 		<url>git@github.com:wdlied/devops.git</url>
 		<tag>HEAD</tag>
 	</scm>
